@@ -1,2 +1,2 @@
-# PRODIGY_WD_01
-RESPONSIVE LANDING PAGE
+# prodigy
+I developed this landing page using HTML and CSS. 
